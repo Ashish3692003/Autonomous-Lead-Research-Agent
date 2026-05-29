@@ -37,7 +37,4 @@ Zapier Forms: https://new-form-project-0346d1.zapier.app/
 **Varri Ashish Nadh** | ECE Graduate, AI & ML Specialization | GITAM University
 Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003
 
----
 
-**Project Type**: GenAI Agent | Sales Automation | No-Code Workflow
-**Created**: February 2026
