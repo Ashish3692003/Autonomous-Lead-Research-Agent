@@ -34,7 +34,6 @@ Zapier Forms: https://new-form-project-0346d1.zapier.app/
 
 ## Author
 
-**Varri Ashish Nadh** | ECE Graduate, AI & ML Specialization | GITAM University
-Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003
+* **Ashish Nadh Varri** - [LinkedIn Profile](https://www.linkedin.com/in/ashishnadhvarri) • [GitHub](https://github.com/Ashish3692003)
 
 
