@@ -1,9 +1,5 @@
 # Autonomous Lead Research & Outreach Agent
 
-[![Zapier Agents](https://img.shields.io/badge/Orchestration-Zapier%20Agents-FF4A00?logo=zapier&logoColor=white)](https://agents.zapier.com/copy/d4c84fa6-1e1c-4fc5-a721-2542ef15e316)
-[![Human-in-the-Loop](https://img.shields.io/badge/Architecture-Human--in--the--Loop%20(HITL)-0A84FF)]()
-[![Google Workspace](https://img.shields.io/badge/Integration-Gmail%20%7C%20Google%20Sheets-34A853?logo=google)]()
-[![Execution Status](https://img.shields.io/badge/Deployment-Live%20Production-success)]()
 
 An autonomous, multi-tool AI sales intelligence engine that ingests target prospect identities, conducts dynamic live-web research to verify titles and extract trailing 6-month corporate signals, synthesizes department-specific AI automation vectors, and stages constrained 3-sentence outreach drafts into an approval-gated Gmail inbox with comprehensive Google Sheets audit logging.
 
