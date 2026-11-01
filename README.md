@@ -81,11 +81,10 @@ When you provide a person's name and company:
 3. Analyze the retrieved job title and company news to determine one specific way AI Agents could assist that person's department.
 4. Generate a personalized 3-sentence email opening incorporating the person's job title, the company news, and the identified AI Agent assistance.
 5. Create a new draft email in your Gmail account with the generated 3-sentence opening as the email body with their official mail id included 
-:action[Gmail%3A%20Create%20Draft]{data="%7B%22id%22%3A%22draft_v2%22%2C%22label%22%3A%22Gmail%3A%20Create%20Draft%22%2C%22selectedApi%22%3A%22GoogleMailV2CLIAPI%22%2C%22copilotInserted%22%3Afalse%2C%22isLoading%22%3Afalse%7D"}
 
-6. log your research to Google Sheets including lead name, company, job title, email:action[Google%20Sheets%3A%20Create%20Spreadsheet%20Row]{data="%7B%22id%22%3A%228f0c52b9-6c46-4a8d-87a4-1549fedec37d%22%2C%22label%22%3A%22Google%20Sheets%3A%20Create%20Spreadsheet%20Row%22%2C%22selectedApi%22%3A%22GoogleSheetsV2CLIAPI%22%2C%22copilotInserted%22%3Afalse%2C%22isLoading%22%3Afalse%7D"}
 
-Expected Outcome: A new draft email will be saved in your Gmail account :action[Gmail%3A%20Create%20Draft]{data="%7B%22id%22%3A%2275c2ec62-235a-4c61-a42b-c6b0a1347f50%22%2C%22label%22%3A%22Gmail%3A%20Create%20Draft%22%2C%22selectedApi%22%3A%22GoogleMailV2CLIAPI%22%2C%22copilotInserted%22%3Afalse%2C%22isLoading%22%3Afalse%7D"}containing a personalized 3-sentence opening tailored to the researched lead and log your research to Google Sheets :action[Google%20Sheets%3A%20Create%20Spreadsheet%20Row]{data="%7B%22id%22%3A%228f0c52b9-6c46-4a8d-87a4-1549fedec37d%22%2C%22label%22%3A%22Google%20Sheets%3A%20Create%20Spreadsheet%20Row%22%2C%22selectedApi%22%3A%22GoogleSheetsV2CLIAPI%22%2C%22copilotInserted%22%3Afalse%2C%22isLoading%22%3Afalse%7D"} .
+6. log your research to Google Sheets including lead name, company, job title, email
+Expected Outcome: A new draft email will be saved in your Gmail account containing a personalized 3-sentence opening tailored to the researched lead and log your research to Google Sheets.
 ```
 
 ---
