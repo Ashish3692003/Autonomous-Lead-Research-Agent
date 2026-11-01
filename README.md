@@ -81,8 +81,6 @@ When you provide a person's name and company:
 3. Analyze the retrieved job title and company news to determine one specific way AI Agents could assist that person's department.
 4. Generate a personalized 3-sentence email opening incorporating the person's job title, the company news, and the identified AI Agent assistance.
 5. Create a new draft email in your Gmail account with the generated 3-sentence opening as the email body with their official mail id included 
-
-
 6. log your research to Google Sheets including lead name, company, job title, email
 Expected Outcome: A new draft email will be saved in your Gmail account containing a personalized 3-sentence opening tailored to the researched lead and log your research to Google Sheets.
 ```
